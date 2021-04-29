@@ -12,7 +12,7 @@ Through International Girls in ICT Day, we work with partners build awareness ab
 
 ## Project Folder Structure
 
-<img src="C:\Users\New Dawn\Documents\Consultation work\Girls_in_ICT\repbixfile\resourses\Readme/Documentation.png?raw=true" alt="folder-structure.png" style="zoom:67%;" />
+<img src="https://github.com/Tukisi/girls-in-ict-sadc-/blob/master/resourses/Readme/FolderStructure.PNG?raw=true" alt="folder-structure.png" style="zoom:67%;" />
 
 
 
@@ -48,7 +48,7 @@ Through International Girls in ICT Day, we work with partners build awareness ab
 
 ##### Dashboard View -
 
-<img src="C:\Users\New Dawn\Documents\Consultation work\Girls_in_ICT\repbixfile\resourses\Readme/Dashboard.png?raw=true" alt="folder-structure.png" style="zoom:67%;" />
+<img src="https://github.com/Tukisi/girls-in-ict-sadc-/blob/master/resourses/Readme/Dashboard.PNG?raw=true" alt="folder-structure.png" style="zoom:67%;" />
 
 
 
